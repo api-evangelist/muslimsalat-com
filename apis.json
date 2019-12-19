@@ -1,0 +1,41 @@
+{
+    "name": "MuslimSalat.com",
+    "description": "Prayer Times for around the world",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1875-muslimsalat-com.jpg",
+    "tags": [
+        "have api",
+        "prayer",
+        "religion"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/muslimsalat-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MuslimSalat.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1875-muslimsalat-com.jpg",
+            "humanURL": "http:\/\/muslimsalat.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/muslimsalat-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MuslimSalat"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/muslimsalat.com\/api\/"
+        }
+    ]
+}
